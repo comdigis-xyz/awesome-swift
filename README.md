@@ -410,6 +410,7 @@ In parternship with:
 * [FDSoundActivatedRecorder](https://github.com/fulldecent/FDSoundActivatedRecorder) - Start recording when the user speaks.
 * [FDWaveformView](https://github.com/fulldecent/FDWaveformView) - An easy way to display an audio waveform in your app.
 * [FluidAudio](https://github.com/FluidInference/FluidAudio) - SDK for real-time on-device audio intelligence on iOS/macOS (diarization, identification, VAD, separation, embeddings, ASR), with CoreML models converted directly from PyTorch to leverage Apple Neural Engine performance.
+* [I/O](https://github.com/comdigis-community/IO) - A multiplatform spatial audio engine written in Swift, focused on high-performance, low-latency DSP, realtime audio graph processing, spatial audio, binaural rendering, XR, and interactive media.
 * [ModernAVPlayer](https://github.com/noreasonprojects/ModernAVPlayer) - Persistence AVPlayer to resume playback after bad network connection even in background mode.
 * [MusicKit](https://github.com/0thernet/MusicKit) - A framework for composing and transforming music.
 * [Soundable](https://github.com/lcardevnas/Soundable) - Soundable allows you to play sounds, single and in sequence, in a very easy way.
